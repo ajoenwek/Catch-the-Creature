@@ -7,6 +7,7 @@ import javax.swing.*;
 
 public class CatchCreature {
 	
+	//hi we're trying out github
 	
 	public static void main (String[] args){
 		
